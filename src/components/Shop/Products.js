@@ -15,10 +15,6 @@ const DUMMY_PRODUCTS = [
   }
 ]
 
-
-
-
-
 const Products = (props) => {
   return (
     <section className={classes.products}>
